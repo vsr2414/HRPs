@@ -18,3 +18,10 @@ Sample Output 0
 False
 Explanation 0
 1990 is not a multiple of 4 hence it's not a leap year."""
+
+import java.io.*
+import java.util.*
+
+fun main(args: Array<String>) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. */
+}
