@@ -10,6 +10,7 @@ Note that the code stub provided reads from STDIN and passes arguments to the is
 Input Format
 Read , the year to test.
 Constraints
+1900 <= year <= 10^5
 Output Format
 The function must return a Boolean value (True/False). Output is handled by the provided code stub.
 Sample Input 0
@@ -19,9 +20,8 @@ False
 Explanation 0
 1990 is not a multiple of 4 hence it's not a leap year."""
 
-import java.io.*
-import java.util.*
 
-fun main(args: Array<String>) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. */
-}
+def is_leap(year):
+    leap = False
+    
+    
