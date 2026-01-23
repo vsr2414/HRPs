@@ -28,3 +28,6 @@ Given list is . The maximum score is , second maximum is . Hence, we print  as t
 
 if __name__ == '__main__':
     n = int(input())
+    arr = list(set(arr))
+    arr.sort()
+    print(arr[-2])
