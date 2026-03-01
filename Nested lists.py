@@ -152,3 +152,21 @@ Common Anode → Common goes to 5V
 
 I’ll explain Common Cathode (most likely yours).
         """
+
+        """
+        An RGB LED has 4 legs:
+
+1 Common pin
+
+3 color pins (Red, Green, Blue)
+
+👉 The longest leg is usually the common pin.
+
+There are two types:
+
+Common Cathode → Common goes to GND ✅ (most common)
+
+Common Anode → Common goes to 5V
+
+I’ll explain Common Cathode (most likely yours).
+        """
