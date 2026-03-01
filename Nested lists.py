@@ -170,3 +170,10 @@ Common Anode → Common goes to 5V
 
 I’ll explain Common Cathode (most likely yours).
         """
+
+        """
+        Pin 11 ----[220Ω]---- Red leg
+Pin 12 ----[220Ω]---- Green leg
+Pin 13 ----[220Ω]---- Blue leg
+GND ----------------- Common leg (longest)
+        """
