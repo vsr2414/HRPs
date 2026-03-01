@@ -184,3 +184,13 @@ Pin 12 ----[220Ω]---- Green leg
 Pin 13 ----[220Ω]---- Blue leg
 GND ----------------- Common leg (longest)
         """
+
+        """
+        | RGB LED Leg          | Connect To                         |
+| -------------------- | ---------------------------------- |
+| Common (longest leg) | **GND**                            |
+| Red leg              | **Pin 11** (through 220Ω resistor) |
+| Green leg            | **Pin 12** (through 220Ω resistor) |
+| Blue leg             | **Pin 13** (through 220Ω resistor) |
+
+        """
