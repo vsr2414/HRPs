@@ -118,3 +118,19 @@ void setColor(int red, int green, int blue) {
   digitalWrite(bluePin, blue);
 }
         """
+
+        """
+        Here’s an example for an RGB LED (common cathode) connected like this:
+
+Red → Pin 11
+
+Green → Pin 12
+
+Blue → Pin 13
+
+Common → GND
+
+(Each color pin should have a 220Ω resistor)
+
+Works on an Arduino Uno.
+        """
